@@ -1,3 +1,3 @@
-# movieland with reactjs
+# spoonacular-recipe-with-reactjs
 
-![preview image](https://github.com/yaroofie/simple-movie-app-react/raw/master/public/reactjs_movieland.png)
+![preview image](https://github.com/yaroofie/recipe-reactjs/spoonacularapi/raw/master/preview.png)
