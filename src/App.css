@@ -6,3 +6,13 @@
 html{
    font-family: 'Montserrat', sans-serif;
 }
+body{
+   padding: 1rem;
+}
+
+/* larger screens */
+@media screen and (min-width:724px) {
+   body{
+      padding: 2rem 4rem;
+   }
+}
